@@ -1,6 +1,6 @@
 ![](./banner-notespace.png)
 
-**NoteSpace** is a collaborative web platform that combines real-time collaboration with version control systems. It combines Google Docs' synchronous editing with GitHub's workspace organization, sharing, and version control. Users can collaborate on markdown-based documents in real time, organize them into workspaces and folders, track changes through commits, and share or clone public workspaces.
+**NoteSpace** is a collaborative web platform that combines real-time collaboration with version control systems. Users can collaborate on markdown-based documents in real time, organize them into workspaces and folders, track changes through commits, and share or clone public workspaces.
 
 ---
 
